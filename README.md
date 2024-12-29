@@ -6,3 +6,7 @@ Enter a local URL or an internet address to generate a full image of the webpage
 - 图片的宽度和高度取决于网页的真实内容的宽度和高度。The width and height of the image depend on the actual width and height of the webpage's content.
 - 支持长文。Supports long articles.
 - 支持本地网页。Supports local webpages.
+
+# 例如 Examples：
+![dd](https://github.com/richardguancn/html2image/blob/main/deepseek.png?raw=true)
+![dd](https://github.com/richardguancn/html2image/blob/main/google.png?raw=true)
